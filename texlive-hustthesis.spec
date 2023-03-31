@@ -1,6 +1,6 @@
 Name:		texlive-hustthesis
 Version:	42547
-Release:	1
+Release:	2
 Summary:	Unofficial thesis template for Huazhong University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hustthesis
