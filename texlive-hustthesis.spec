@@ -3,7 +3,7 @@ Version:	42547
 Release:	2
 Summary:	Unofficial thesis template for Huazhong University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hustthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hustthesis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hustthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hustthesis.doc.r%{version}.tar.xz
